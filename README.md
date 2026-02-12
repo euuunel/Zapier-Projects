@@ -37,6 +37,7 @@ This screenshot displays the complete Zapier workflow showing how audio content 
 ##### 🔹 Social Media Distribution Step
 ![Social Media Distribution](Portfolio/1_AI_Repurposing_content/LINKEDIN_blog_post.png)
 ![Social Media Distribution](Portfolio/1_AI_Repurposing_content/FB_Blog_post.png)
+
 *Note: Different blog was captured in LinkedIN and Facebook, but those two different generated blog was posted both in LinkedIN and Facebook. Two blog post per platform.*
 
 ---
