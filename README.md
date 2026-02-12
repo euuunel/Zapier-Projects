@@ -14,7 +14,6 @@ Projects include real-world automation solutions, AI integrations, and business 
 
 ## Projects
 <br>
-
 ### Project 1: AI Repurposing Content
 This workflow automatically repurposes existing content from audio files into two unique blog posts using AI. The workflow then publishes both blog posts across multiple social media platforms (Facebook, Instagram, Twitter, etc.), This helps to streamline content production and distribution.
 
@@ -39,15 +38,11 @@ This screenshot displays the complete Zapier workflow showing how audio content 
 
 *Note: Different blog was captured in LinkedIN and Facebook, but those two different generated blog was posted both in LinkedIN and Facebook. Two blog post per platform.*
 
----
-
 #### What I Did
 - Designed automated content repurposing workflow
 - Integrated AI to generate blog content variations
 - Built multi-platform distribution automation
 - Implemented workflow triggers, filters, and error handling
-
----
 
 #### Tools & Integrations
 - Zapier
@@ -55,8 +50,6 @@ This screenshot displays the complete Zapier workflow showing how audio content 
 - Social Media Platforms
 - Cloud Storage
 - Audio Processing Tools
-
----
 
 #### Business Value / Impact
 - Reduces content production time
