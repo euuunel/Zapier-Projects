@@ -55,7 +55,7 @@ This screenshot displays the complete Zapier workflow showing how audio content 
 - Increases content output consistency
 - Eliminates repetitive manual content creation
 - Improves marketing efficiency and reach
-<br>
+
 ---
 <br>
 
@@ -90,7 +90,7 @@ This screenshot displays the complete lead engagement automation workflow. It sh
 - Centralizes lead management
 - Reduces manual CRM updates
 - Improves sales and engagement efficiency
-<br>
+
 ---
 <br>
 
