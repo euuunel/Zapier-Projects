@@ -6,9 +6,9 @@ Projects include real-world automation solutions, AI integrations, and business 
 
 ## 📂 Project Navigation
 
-- [Project 1: AI Repurposing Content](#-project-1-ai-repurposing-content)
-- [Project 2: ASANA CRM Leads Engagement Workflow](#-project-2-asana-crm-leads-engagement-workflow)
-- [Project 3: Lead Enrichment Workflow](#-project-3-lead-enrichment-workflow)
+- [Project 1: AI Repurposing Content](#project-1-ai-repurposing-content)
+- [Project 2: ASANA CRM Leads Engagement Workflow](#project-2-asana-crm-leads-engagement-workflow)
+- [Project 3: Lead Enrichment Workflow](#project-3-lead-enrichment-workflow)
 ---
 
 
