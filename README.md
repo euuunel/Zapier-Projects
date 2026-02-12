@@ -2,7 +2,7 @@
 This repository contains my Zapier automation projects built to simplify workflows, automate repetitive tasks, and connect multiple platforms into efficient systems.
 Projects include real-world automation solutions, AI integrations, and business productivity workflows.
 
---
+---
 
 ## 📂 Project Navigation
 
@@ -56,8 +56,9 @@ This screenshot displays the complete Zapier workflow showing how audio content 
 - Eliminates repetitive manual content creation
 - Improves marketing efficiency and reach
 <br>
---
+---
 <br>
+
 ###  Project 2: ASANA CRM Leads Engagement Workflow
 This workflow automates lead engagement and tracking using Asana as a CRM system to improve follow-up efficiency and lead management.
 
@@ -72,22 +73,16 @@ This workflow automates lead engagement and tracking using Asana as a CRM system
 **Explanation:**  
 This screenshot displays the complete lead engagement automation workflow. It shows how new leads are captured, tasks are created in Asana, and automated follow-ups are triggered.
 
----
-
 #### What I Did
 - Designed automated CRM lead management workflow
 - Built lead capture and task assignment automation
 - Implemented automated follow-up and engagement reminders
 - Structured CRM-style lead tracking using Asana
 
----
-
 #### Tools & Integrations
 - Zapier
 - Asana (CRM System)
 - Email Automation Tools
-
----
 
 #### Business Value / Impact
 - Improves lead response speed
@@ -96,10 +91,10 @@ This screenshot displays the complete lead engagement automation workflow. It sh
 - Reduces manual CRM updates
 - Improves sales and engagement efficiency
 <br>
---
+---
 <br>
-### 🔎 Project 3: Lead Enrichment Workflow
 
+### Project 3: Lead Enrichment Workflow
 This workflow automatically enriches new leads by collecting additional data such as company details, contact information, and lead insights using Apollo. The enriched data helps to identify if a high priority client comes in.
 
 ---
@@ -119,12 +114,10 @@ This screenshot shows how new leads are processed through enrichment tools to ga
 - Built automated CRM data updating process
 - Implemented validation and filtering logic
 
-
 #### Tools & Integrations
 - Zapier
 - Apollo - Lead Enrichment APIs / Tools
 - CRM Platform
-
 
 #### Business Value / Impact
 - Improves lead quality and qualification
@@ -135,6 +128,7 @@ This screenshot shows how new leads are processed through enrichment tools to ga
 <br>
 ---
 <br>
+
 ## Portfolio Summary
 
 This repository showcases a collection of automation workflows designed to improve business efficiency, reduce manual processes, and integrate multiple platforms into streamlined systems. The projects included demonstrate practical automation use cases involving CRM management, AI-driven content workflows, lead processing, and multi-platform integrations.
