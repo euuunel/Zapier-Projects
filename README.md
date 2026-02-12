@@ -13,7 +13,6 @@ Projects include real-world automation solutions, AI integrations, and business 
 
 
 ## Projects
-<br>
 ### Project 1: AI Repurposing Content
 This workflow automatically repurposes existing content from audio files into two unique blog posts using AI. The workflow then publishes both blog posts across multiple social media platforms (Facebook, Instagram, Twitter, etc.), This helps to streamline content production and distribution.
 
@@ -56,11 +55,9 @@ This screenshot displays the complete Zapier workflow showing how audio content 
 - Increases content output consistency
 - Eliminates repetitive manual content creation
 - Improves marketing efficiency and reach
-
 <br>
+--
 <br>
-<br>
-
 ###  Project 2: ASANA CRM Leads Engagement Workflow
 This workflow automates lead engagement and tracking using Asana as a CRM system to improve follow-up efficiency and lead management.
 
@@ -98,12 +95,9 @@ This screenshot displays the complete lead engagement automation workflow. It sh
 - Centralizes lead management
 - Reduces manual CRM updates
 - Improves sales and engagement efficiency
-
 <br>
+--
 <br>
-<br>
-
-
 ### 🔎 Project 3: Lead Enrichment Workflow
 
 This workflow automatically enriches new leads by collecting additional data such as company details, contact information, and lead insights using Apollo. The enriched data helps to identify if a high priority client comes in.
@@ -116,11 +110,8 @@ This workflow automatically enriches new leads by collecting additional data suc
 ![Workflow Overview](Portfolio/3_Automated_Leads_Enrichment/Automated_leads_enrichment.png)
 ![Slack Sample Alert](Portfolio/3_Automated_Leads_Enrichment/Slack.png)
 
-
 **Explanation:**  
 This screenshot shows how new leads are processed through enrichment tools to gather additional business and contact data.
-
----
 
 #### What I Did
 - Designed automated lead enrichment workflow
@@ -128,14 +119,12 @@ This screenshot shows how new leads are processed through enrichment tools to ga
 - Built automated CRM data updating process
 - Implemented validation and filtering logic
 
----
 
 #### Tools & Integrations
 - Zapier
 - Apollo - Lead Enrichment APIs / Tools
 - CRM Platform
 
----
 
 #### Business Value / Impact
 - Improves lead quality and qualification
@@ -143,10 +132,9 @@ This screenshot shows how new leads are processed through enrichment tools to ga
 - Enhances sales targeting accuracy
 - Saves time on manual lead research
 - Increases conversion opportunities
-
+<br>
 ---
----
-
+<br>
 ## Portfolio Summary
 
 This repository showcases a collection of automation workflows designed to improve business efficiency, reduce manual processes, and integrate multiple platforms into streamlined systems. The projects included demonstrate practical automation use cases involving CRM management, AI-driven content workflows, lead processing, and multi-platform integrations.
