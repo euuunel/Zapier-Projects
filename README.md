@@ -13,8 +13,7 @@ Projects include real-world automation solutions, AI integrations, and business 
 
 
 ## Projects
-
---
+<br>
 
 ### Project 1: AI Repurposing Content
 This workflow automatically repurposes existing content from audio files into two unique blog posts using AI. The workflow then publishes both blog posts across multiple social media platforms (Facebook, Instagram, Twitter, etc.), This helps to streamline content production and distribution.
@@ -65,8 +64,9 @@ This screenshot displays the complete Zapier workflow showing how audio content 
 - Eliminates repetitive manual content creation
 - Improves marketing efficiency and reach
 
----
----
+<br>
+<br>
+<br>
 
 ###  Project 2: ASANA CRM Leads Engagement Workflow
 This workflow automates lead engagement and tracking using Asana as a CRM system to improve follow-up efficiency and lead management.
@@ -106,8 +106,10 @@ This screenshot displays the complete lead engagement automation workflow. It sh
 - Reduces manual CRM updates
 - Improves sales and engagement efficiency
 
----
----
+<br>
+<br>
+<br>
+
 
 ### 🔎 Project 3: Lead Enrichment Workflow
 
