@@ -139,7 +139,7 @@ Each workflow highlights my approach to building scalable, reliable, and busines
 
 If you would like to collaborate or discuss automation solutions:
 
-- LinkedIn: [[Add Link](https://www.linkedin.com/in/jarolf-eunel-carrasco-092038136 )]
+- LinkedIn: [LinkedIN_Link](https://www.linkedin.com/in/jarolf-eunel-carrasco-092038136 )]
 - Email: [jarolfcarrasco@gmail.com]
 
 ---
